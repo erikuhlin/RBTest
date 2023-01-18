@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Se var vra bostder finns</name>
+   <tag></tag>
+   <elementGuidId>4b00f2db-9e43-4206-a74a-78441a67bde3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div[2]/div/div/article/div/div[4]/div/div/div[2]/div/div/div/div/div/p[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1c8d5145-4f73-4351-96c2-ab5d29b1a425</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>large</value>
+      <webElementGuid>ce161967-27b5-4cfb-a055-1e5017551056</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Här bygger vi</value>
+      <webElementGuid>242c6809-b8c2-4cea-9b45-9d163016a47e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/bostad/kampanjomradessidor/</value>
+      <webElementGuid>c10edec0-16a2-4d88-89b1-f694bc41176d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Se var våra  bostäder finns</value>
+      <webElementGuid>961b99fe-c577-4261-96dd-f261ac589a5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;container main-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col page-content&quot;]/article[1]/div[1]/div[@class=&quot;row row3 equal-height&quot;]/div[@class=&quot;block standardblock       col-12&quot;]/div[@class=&quot;card eq-block bg-silver text-gray-87 Standard&quot;]/div[@class=&quot;card-body&quot;]/div[1]/div[@class=&quot;row row0 equal-height&quot;]/div[@class=&quot;block contentblock       col-12&quot;]/div[@class=&quot;eq-block&quot;]/div[@class=&quot;xhtmlstring-wrapper&quot;]/p[2]/a[@class=&quot;large&quot;]</value>
+      <webElementGuid>96b20848-8f73-4e5a-8c85-f750151a06f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/article/div/div[4]/div/div/div[2]/div/div/div/div/div/p[2]/a</value>
+      <webElementGuid>24e0eba6-b09b-487e-b4a7-db4d35830219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Se var våra  bostäder finns')]</value>
+      <webElementGuid>136758d8-4e59-4409-ab79-77c0ce6f0087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Här kan du köpa bostad'])[1]/following::a[1]</value>
+      <webElementGuid>45cd4cfb-69ed-433c-a30c-1811dd51bf3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nybyggda lägenheter och lediga bostadsrätter'])[1]/following::a[1]</value>
+      <webElementGuid>dfc3658c-65e7-444c-b928-f5a078caa000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle'])[1]/preceding::a[1]</value>
+      <webElementGuid>0c1c2b2b-c5f5-4efc-ae54-a23b753b9c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Om oss'])[4]/preceding::a[1]</value>
+      <webElementGuid>182c210c-01b5-4d0a-a13e-4ec730e99ac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Se var våra  bostäder finns']/parent::*</value>
+      <webElementGuid>9d7b8cc0-c2a6-4ce5-8d9c-ef99fdbe578c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/bostad/kampanjomradessidor/')]</value>
+      <webElementGuid>1ef6fc7e-ee88-4091-899b-401a8f1ef7af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/a</value>
+      <webElementGuid>1d6545ad-39d2-4db2-90e1-870c4f231df7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Här bygger vi' and @href = '/bostad/kampanjomradessidor/' and (text() = 'Se var våra  bostäder finns' or . = 'Se var våra  bostäder finns')]</value>
+      <webElementGuid>7b5f3201-a0c8-4b8a-ae49-3c58d283e741</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
