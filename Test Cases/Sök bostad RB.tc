@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sök bostad Riksbyggen.se</description>
+   <name>Sök bostad RB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ffe946e7-a735-41c8-96d9-f06bceead068</testCaseGuid>
+</TestCaseEntity>
