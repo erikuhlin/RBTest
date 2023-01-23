@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Om bostderna</name>
+   <tag></tag>
+   <elementGuidId>f8606180-a3a5-4d0e-a5cd-5516b181d31e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div/div/nav/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b710dea6-dcbc-4764-9480-a77188ea7175</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#om-bostaderna</value>
+      <webElementGuid>6297d6c1-cf90-4488-828b-aba8f839ffc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-anchor</value>
+      <webElementGuid>0fc59d6e-7ea1-4a63-97b0-cd40b0ba7a20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Om bostäderna</value>
+      <webElementGuid>52bcc3bc-20e3-4577-b060-c5662ac92657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;js-sticky-container&quot;]/div[@class=&quot;accommodation-anchor-navigation js-sticky-floating&quot;]/nav[@class=&quot;inline container js-scroll-container shadow-right&quot;]/ul[1]/li[@class=&quot;d-inline-block&quot;]/a[@class=&quot;menu-anchor&quot;]</value>
+      <webElementGuid>727e6ca6-acd1-4157-aa31-0fb599199ea1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div/div/nav/ul/li[3]/a</value>
+      <webElementGuid>8d713c12-dfd1-483c-8481-15960392a17d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Om bostäderna')]</value>
+      <webElementGuid>18f1afd8-2dac-4e89-bcd2-f71e271e7749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bilder'])[1]/following::a[1]</value>
+      <webElementGuid>80214015-9884-44f4-9a5d-b14058142e7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visningar'])[1]/following::a[2]</value>
+      <webElementGuid>40ede04b-1806-4f85-bd11-cfc0ec2c0ec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bostadsväljare'])[1]/preceding::a[1]</value>
+      <webElementGuid>e668aea5-5521-43fb-8ed9-dfe22ea5ba4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontakt'])[1]/preceding::a[2]</value>
+      <webElementGuid>0b8f4e88-e661-41e3-a1ca-3c14cf45f250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Om bostäderna']/parent::*</value>
+      <webElementGuid>549b83e7-7d34-4c19-ad6d-fea493fa5fdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#om-bostaderna')]</value>
+      <webElementGuid>3d85161a-f8b2-4820-a582-02087af980d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/nav/ul/li[3]/a</value>
+      <webElementGuid>373bf61d-2220-4c7f-9aa2-b8b0c9725143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#om-bostaderna' and (text() = 'Om bostäderna' or . = 'Om bostäderna')]</value>
+      <webElementGuid>87379334-e9c3-4f50-9644-58068e2be739</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
