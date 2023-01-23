@@ -46,3 +46,5 @@ WebUI.click(findTestObject('Object Repository/Page_TWEB01-IIS  Inflyttningsklara
 
 WebUI.click(findTestObject('Object Repository/Page_TWEB01-IIS  Inflyttningsklara bostadsr_6ff452/a_Kontakt'))
 
+WebUI.getUrl()
+
